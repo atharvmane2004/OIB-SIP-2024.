@@ -31,7 +31,7 @@ class User {
 
             String url = "jdbc:mysql://localhost:3306/onlineReservationSystem";
             String username = "root";
-            String password = "7030503374";
+            String password = "";
 
             Class.forName("com.mysql.cj.jdbc.Driver");
 
@@ -75,7 +75,7 @@ class User {
 
             String url = "jdbc:mysql://localhost:3306/onlineReservationSystem";
             String username = "root";
-            String password = "7030503374";
+            String password = "";
 
             Class.forName("com.mysql.cj.jdbc.Driver");
 
@@ -190,7 +190,7 @@ class User {
 
             String url = "jdbc:mysql://localhost:3306/onlineReservationSystem";
             String username = "root";
-            String password = "7030503374";
+            String password = "";
 
             Class.forName("com.mysql.cj.jdbc.Driver");
 
@@ -233,7 +233,7 @@ class User {
 
             String url = "jdbc:mysql://localhost:3306/onlineReservationSystem";
             String username = "root";
-            String password = "7030503374";
+            String password = "";
 
             Class.forName("com.mysql.cj.jdbc.Driver");
 
@@ -279,7 +279,7 @@ class User {
 
             String url = "jdbc:mysql://localhost:3306/onlineReservationSystem";
             String username = "root";
-            String password = "7030503374";
+            String password = "";
 
             Class.forName("com.mysql.cj.jdbc.Driver");
 
